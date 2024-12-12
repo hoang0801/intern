@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93ca087e-1d6c-4ac1-99b0-d694b4dd5909" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/client/PaymentServiceCLient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/client/UserServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/jwt/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/jwt/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/EcommerceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/EcommerceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/config/UserDetailSecurity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/controller/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/controller/RoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/entity/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/entity/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/entity/TokenBlacklist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/jwt/JwtTokenFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/jwt/JwtTokenService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/repository/TokenBlacklistRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/CleanSchedulerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/impl/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/java/com/vnpd/ecommerce/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/test/java/com/vnpd/ecommerce/controller/InventoryContrllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/test/java/com/vnpd/ecommerce/controller/InventoryContrllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/test/java/com/vnpd/ecommerce/controller/OrderControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/test/java/com/vnpd/ecommerce/controller/OrderControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/test/java/com/vnpd/ecommerce/controller/UsetControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/test/java/com/vnpd/ecommerce/controller/UsetControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/test/java/com/vnpd/ecommerce/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/src/test/java/com/vnpd/ecommerce/service/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/src/test/java/com/vnpd/ecommerce/service/UserServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2q6HWO45yc9bmeKdImVaNwD8vJL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/GitHub/hoangle201/intern"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93ca087e-1d6c-4ac1-99b0-d694b4dd5909" name="Changes" comment="" />
+      <created>1733976135267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733976135267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
